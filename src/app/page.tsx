@@ -201,7 +201,7 @@ const CommanderCounterWebsite = () => {
               <ul className="text-gray-600 space-y-1 ml-4">
                 <li>• Check that timers are enabled in game settings</li>
                 <li>• Verify background app refresh is enabled for Commander Counter</li>
-                <li>• Make sure your device isn't in low power mode</li>
+                <li>• Make sure your device isn&apos;t in low power mode</li>
               </ul>
             </div>
             
@@ -260,7 +260,7 @@ const CommanderCounterWebsite = () => {
         <section className="bg-blue-50 rounded-lg p-6 border border-blue-200">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Still Need Help?</h2>
           <p className="text-gray-600 mb-4">
-            Can't find what you're looking for? We're here to help!
+            Can&apos;t find what you&lsquo;re looking for? We&apos;re here to help!
           </p>
           
           <div className="space-y-3">
@@ -404,7 +404,7 @@ const CommanderCounterWebsite = () => {
           <h3 className="text-lg font-semibold text-gray-800 mb-3">Data Control</h3>
           <ul className="list-disc pl-6 space-y-2 text-gray-600 mb-4">
             <li><strong>Local Data:</strong> Delete all app data by uninstalling the application</li>
-            <li><strong>Analytics:</strong> Opt out through your device's privacy settings</li>
+            <li><strong>Analytics:</strong> Opt out through your device&apos;s privacy settings</li>
             <li><strong>App Permissions:</strong> Review and modify in your device settings</li>
           </ul>
 
@@ -419,7 +419,7 @@ const CommanderCounterWebsite = () => {
 
         {/* Children's Privacy */}
         <section className="mb-8">
-          <h2 className="text-2xl font-bold text-gray-900 mb-4 pb-2 border-b-2 border-gray-200">Children's Privacy</h2>
+          <h2 className="text-2xl font-bold text-gray-900 mb-4 pb-2 border-b-2 border-gray-200">Children&apos;s Privacy</h2>
           <p className="text-gray-600">
             Commander Counter does not knowingly collect personal information from children under 13. The app is designed to be 
             family-friendly and suitable for Magic: The Gathering players of all ages. Since we collect minimal data and store 
