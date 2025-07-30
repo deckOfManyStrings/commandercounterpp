@@ -260,7 +260,7 @@ const CommanderCounterWebsite = () => {
         <section className="bg-blue-50 rounded-lg p-6 border border-blue-200">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Still Need Help?</h2>
           <p className="text-gray-600 mb-4">
-            Can&apos;t find what you&lsquo;re looking for? We&apos;re here to help!
+            Can&apos;t find what you&apos;re looking for? We&apos;re here to help!
           </p>
           
           <div className="space-y-3">
